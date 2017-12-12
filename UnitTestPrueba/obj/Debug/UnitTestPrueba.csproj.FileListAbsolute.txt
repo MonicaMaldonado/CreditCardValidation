@@ -1,0 +1,7 @@
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\bin\Debug\UnitTestPrueba.dll
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\bin\Debug\UnitTestPrueba.pdb
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\bin\Debug\ValidationCredictCard.exe
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\bin\Debug\ValidationCredictCard.pdb
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\obj\Debug\UnitTestPrueba.csprojResolveAssemblyReference.cache
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\obj\Debug\UnitTestPrueba.dll
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\UnitTestPrueba\obj\Debug\UnitTestPrueba.pdb

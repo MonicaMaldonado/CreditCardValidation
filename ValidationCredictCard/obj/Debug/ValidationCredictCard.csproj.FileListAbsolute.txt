@@ -1,0 +1,9 @@
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\bin\Debug\ValidationCredictCard.exe.config
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\bin\Debug\ValidationCredictCard.exe
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\bin\Debug\ValidationCredictCard.pdb
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.csprojResolveAssemblyReference.cache
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.Properties.Resources.resources
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.csproj.GenerateResource.Cache
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.exe
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.pdb
+c:\users\mónica\documents\visual studio 2012\Projects\ValidationCredictCard\ValidationCredictCard\obj\Debug\ValidationCredictCard.TarjetaCredito.resources

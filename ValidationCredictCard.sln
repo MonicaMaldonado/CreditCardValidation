@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationCredictCard", "ValidationCredictCard\ValidationCredictCard.csproj", "{8F0593C5-B8B6-4D71-8CD8-DEF779DBA876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTest", "UnitTestPrueba\ValidationTest.csproj", "{BDF65179-3E1C-422C-B7EB-D1D3F73BCE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0593C5-B8B6-4D71-8CD8-DEF779DBA876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0593C5-B8B6-4D71-8CD8-DEF779DBA876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0593C5-B8B6-4D71-8CD8-DEF779DBA876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0593C5-B8B6-4D71-8CD8-DEF779DBA876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF65179-3E1C-422C-B7EB-D1D3F73BCE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF65179-3E1C-422C-B7EB-D1D3F73BCE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF65179-3E1C-422C-B7EB-D1D3F73BCE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF65179-3E1C-422C-B7EB-D1D3F73BCE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
